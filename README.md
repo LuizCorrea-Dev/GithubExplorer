@@ -36,7 +36,7 @@
 
 Neste projeto usei além do layout apresentado na aula, técnicas de **media** para rendenizar em qulquer tela.
 
-para que quiser conferir segue o código no [Github](https://github.com/LuizCorrea-Dev/netflix-clone) e podem acessar aqui [GithubExplorer.com](https://GithubExplorer.vercel.app/)
+para que quiser conferir segue o código no [Github](https://github.com/LuizCorrea-Dev/GithubExplorer) e podem acessar aqui [GithubExplorer.com](https://github-explorer-ruddy.vercel.app/)
 
 
 
