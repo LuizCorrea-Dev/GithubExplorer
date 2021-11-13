@@ -54,7 +54,7 @@ para que quiser conferir segue o código no [Github](https://github.com/LuizCorr
 
 ## Layout da Aplicação :dash:
 
-> ![](https://github.com/LuizCorrea-Dev/netflix-clone/blob/main/img/screencapture.png?raw=true)
+> ![](https://github.com/LuizCorrea-Dev/GithubExplorer/blob/main/screencapture.png?raw=true)
 
 
 
