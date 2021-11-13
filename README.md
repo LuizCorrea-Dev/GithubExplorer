@@ -42,13 +42,13 @@ para que quiser conferir segue o código no [Github](https://github.com/LuizCorr
 
 ## Funcionalidades
 
-:heavy_check_mark: Botão chamando modal de detalhes 
+:heavy_check_mark: Busca de usuários do github 
 
-:heavy_check_mark: Botão chamando modal com video do Youtube
+:heavy_check_mark: Exibição de lista de repositório
 
-:heavy_check_mark: Efeito parallax
+:heavy_check_mark: exibição de detalhes do usuário
 
-:heavy_check_mark: Galeria  carousel
+:heavy_check_mark: Exibição de detalhes de cada projeto
 
 
 
